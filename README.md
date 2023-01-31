@@ -5,6 +5,8 @@ The dataset is created by converting the captured video into frames, with each c
 # Requirements
 tensorflow: 2.9.2
 numpy: 1.21.6
+<br>
 streamlit: 1.12.2
+<br>
 opencv: 4.6.0
 
